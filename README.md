@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dsekol
 - 👀 I’m interested in all sorts of programming and coding!
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning C#
 - 💞️ I'm very new to the programming world and am looking forward to discover the wonders that hide behind the screen.
 
 <!---
